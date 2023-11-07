@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{A0A5B793-7FF6-481D-83CE-7EAC40FAA70D}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TEMPO PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TEMPO/Views/Home/Privacy.cshtml">
+    <Files>
+      <File FileName="TEMPO/Models/LoginData.cs" Line="24" Column="6" />
+      <File FileName="TEMPO/Controllers/HomeController.cs" Line="51" Column="6" />
+      <File FileName="TEMPO/Views/Home/Regis.cshtml" Line="49" Column="7" />
+      <File FileName="TEMPO/Views/Home/Index.cshtml" Line="6" Column="18" />
+      <File FileName="TEMPO/wwwroot/css/site.css" Line="1" Column="1" />
+      <File FileName="TEMPO/Views/Home/Privacy.cshtml" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TEMPO" expanded="True">
+            <Node name="TEMPO">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views">
+                <Node name="Home">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
